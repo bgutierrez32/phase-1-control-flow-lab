@@ -23,7 +23,5 @@ function switchOnCharmFromTip(tip){
       return 'Thank you.';
     default:
       return 'Bye.';
-
-  // Write your code here!
-}
+  }
 }
